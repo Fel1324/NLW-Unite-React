@@ -48,7 +48,7 @@
 <h3>Executando a API</h3>
 
 ```bash
-# Acesse o repositório da API clicando no link abaixo
+# Acesse o repositório da API
 https://github.com/rocketseat-education/nlw-unite-nodejs
 
 # Clone o repositório
